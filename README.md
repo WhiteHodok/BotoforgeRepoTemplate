@@ -17,17 +17,29 @@
 ## Файловая структура
 
 └───src
+
     ├───db
+
     ├───handlers
+
     ├───keyboards
+
     ├───middlewares
+
     ├───migrations
+
     │   └───versions
+
     ├───repo
+
     ├───schemas
+
     ├───services
+
     ├───states
+
     └───utils
+
         └───dependencies
 
 
