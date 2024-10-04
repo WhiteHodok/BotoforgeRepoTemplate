@@ -1,5 +1,7 @@
 # BotoforgeRepoTemplate
-
+```
+Используется только асинхронщина
+```
 ## Зависимости
 
 | Frame    |   Ver                                                |
@@ -42,17 +44,23 @@ POSTGRES_PORT="5432"
 TOKEN="TOKEN"
 ```
 
-## First steps in console after write models or changing models BEFORE USE
+## ВНИМАНИЕ! После создания/изменения моделей для БД, применить следующие команды alembic
 
-1. numero uno 
+1. Команда
 
 ```
 alembic -c src/alembic.ini revision --autogenerate
 ```
 
-2. numero does
+2. Команда
 
 ```
 alembic -c src/alembic.ini upgrade head
 ```
+
+## Usage
+
+- Пример использования изложен в файле main.py 
+
+
 
