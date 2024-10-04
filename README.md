@@ -32,9 +32,15 @@
         └───dependencies
 ```
 
-
-
-
+## .env example
+```
+POSTGRES_USER="botoforge"
+POSTGRES_PASSWORD="password"
+POSTGRES_DB="test"
+POSTGRES_HOST="ip"
+POSTGRES_PORT="5432"
+TOKEN="TOKEN"
+```
 
 ## First steps in console after write models or changing models BEFORE USE
 
