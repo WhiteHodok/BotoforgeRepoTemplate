@@ -2,6 +2,9 @@
 ```
 Используется только асинхронщина
 ```
+
+![wspace](https://github.com/user-attachments/assets/eb81567f-ea70-4672-a076-ac559c910d24)
+
 ## Зависимости
 
 | Frame    |   Ver                                                |
