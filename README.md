@@ -14,6 +14,21 @@
 |Python   | 3.11.x or older |
 
 
+## Файловая структура
+
+└───src
+    ├───db
+    ├───handlers
+    ├───keyboards
+    ├───middlewares
+    ├───migrations
+    │   └───versions
+    ├───repo
+    ├───schemas
+    ├───services
+    ├───states
+    └───utils
+        └───dependencies
 
 
 
