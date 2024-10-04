@@ -60,7 +60,7 @@ alembic -c src/alembic.ini upgrade head
 
 ## Usage
 
-- Пример использования изложен в файле main.py 
+- Пример использования fabric-репозитория изложен в файле main.py 
 
 
 
